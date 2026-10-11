@@ -17,6 +17,8 @@ PSP 일본판 **Twelve ～戦国封神伝～ (트웰브 전국봉신전)**의 �
 <!-- kr-patch:game-info:v1:start -->
 ## 게임 정보
 
+<img align="right" src="https://dollars-archive.github.io/Dollars-Archive/covers/twelve-sengoku-fuushinden-kr-patch.webp?v=57fe23beb704" width="220" alt="트웰브 전국봉신전 패키지 표지">
+
 | 항목 | 내용 |
 | --- | --- |
 | 한글 제목 | 트웰브 전국봉신전 |
@@ -34,6 +36,8 @@ PSP 일본판 **Twelve ～戦国封神伝～ (트웰브 전국봉신전)**의 �
 | 제품 번호 | `ULJM-05031` |
 | 패치 기준 업데이트 | 원본 DISC_VERSION 1.01 (별도 공식 업데이트가 아님) |
 | CERO | A |
+
+<br clear="right">
 
 <!-- kr-patch:game-info:v1:end -->
 
